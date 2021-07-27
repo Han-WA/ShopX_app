@@ -1,6 +1,8 @@
 # shopx_api
 
-A new Flutter project.
+Shopping app using api and getx flutter. Demo by CodeX YouTube channel.
+
+List deprecated issue with getx resolved by RxList. 
 
 ## Getting Started
 
