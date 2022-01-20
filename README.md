@@ -1,6 +1,6 @@
 # shopx_api
 
-Shopping app using api and getx flutter. Demo by CodeX YouTube channel.
+Shopping app using api and getx flutter. Ecommerce Standard UI.
 
 List deprecated issue with getx resolved by RxList. 
 
